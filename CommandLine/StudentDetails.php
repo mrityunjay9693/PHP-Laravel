@@ -1,13 +1,17 @@
-//Program to read name, mobile number, 10th percentage, 12th Percentage and Degree percentage and displaying the details taken in console.
-
 <?php
-///taking inputs
+//Program to read name, mobile number, 10th percentage, 12th Percentage and Degree percentage and displaying the details taken in console.
+//taking inputs
 
 $name = readline("Enter Name of the Students: ");
 $mobile_no = readline("Enter the mobile number: ");
 $tenth_percentage = readline("Enter 10th Percentage: ");
 $twelfth_percentage = readline("Enter 12th Percentage: ");
 $degree_percentage = readline("Enter Degree Percentage: ");
+
+
+echo "\n";
+echo "--------Students Details--------";
+echo "\n";
 
 //echoing the output
 
