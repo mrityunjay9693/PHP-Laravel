@@ -1,4 +1,8 @@
 <?php
+/* 
+Write a php program to read three value from user and
+print 
+ */
 
 $num1 = readline("Enter 1st number: ");
 $num2 = readline("Enter 2nd number: ");
