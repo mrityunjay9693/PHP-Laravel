@@ -1,6 +1,8 @@
 <?php
-//A php program to read two integer value from user and
-//Print those two are equal or not.
+/*
+Q.8: A php program to read two integer value from user and
+Print those two are equal or not.
+*/
 
 $num1 = readline("Enter 1st number: ");
 $num2 = readline("Enter 2nd number: ");
