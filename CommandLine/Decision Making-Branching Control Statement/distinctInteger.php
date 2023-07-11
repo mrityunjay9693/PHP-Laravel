@@ -1,9 +1,11 @@
 <?php
 
 /* 
-Write a php program to read three value from user and
-print 
- */
+@mrityunjay9693
+Q.19:Write a php program to read three value from user and
+     print middle value if the three inputs are distinct.
+
+*/
 
 $num1 = readline("Enter 1st number: ");
 $num2 = readline("Enter 2nd number: ");

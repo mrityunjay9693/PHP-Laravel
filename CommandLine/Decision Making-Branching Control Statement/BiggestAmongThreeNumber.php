@@ -1,6 +1,9 @@
 <?php
-//Write a php program to read three integer from user and 
-//Print biggest among these three number by using simple if-statement 
+/*
+@mrityunjay9693
+Q.10: Write a php program to read three integer from user and 
+      Print biggest among these three number by using simple if-statement 
+*/
 
 $num1 = readline("Enter 1st number: ");
 $num2 = readline("Enter 2nd number: ");

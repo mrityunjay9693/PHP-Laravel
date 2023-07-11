@@ -1,7 +1,11 @@
 <?php
-//Write a php program to read two integer numbers fronm user and 
-//You have to printbiggest among them.
+/*
 
+@mrityunjay9693
+Q.9: Write a php program to read two integer numbers fronm user and 
+You have to printbiggest among them.
+
+*/
 //num1 and num2 are two integer input.
 $num1 = readline("Enter 1st number: ");
 $num2 = readline("Enter 2nd number: ");

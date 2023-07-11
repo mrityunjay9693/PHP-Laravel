@@ -1,7 +1,9 @@
 <?php
-//Write a program in php to read a number as input from user and 
-//print it, is it even or odd.
-
+/*
+@mrityunjay9693
+Q.12:Write a program in php to read a number as input from user and 
+     print it, is it even or odd.
+*/
 //$EvenOdd = array("even","odd");
 $number = readline("Enter number: ");
 
