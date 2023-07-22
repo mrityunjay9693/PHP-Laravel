@@ -1,9 +1,14 @@
 <?php
-require '.env.php';
+
+//require '.env.php';
 
 $connection = null;
 
 function connect()
 {
-    $connection = new mysqli(HOST, USERNAME, PASSWORD, DATABASE);
+    //mysqli_connect is a function here.
+
+    $connection = mysqli_connect(HOST, USERNAME, PASSWORD, DATABASE);
+
 }
+
