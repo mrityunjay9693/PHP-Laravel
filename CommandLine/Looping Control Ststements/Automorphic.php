@@ -35,19 +35,6 @@ else{
 }
 echo "\n";
 
-
-
-    
-
-
-
-
-
-
-
-
-
-
 //function countDigit to count no of digit in $num
 function countDigit($num)
 {
