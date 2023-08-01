@@ -33,7 +33,7 @@ else{
     echo "Invalid input";
     echo "\n";
 }
-
+echo "\n";
 
 
 
