@@ -16,3 +16,5 @@ class mysql_mysqli{
     }
     
 }
+
+new mysql_mysqli();

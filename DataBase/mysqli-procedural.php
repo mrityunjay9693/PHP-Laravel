@@ -1,6 +1,6 @@
 <?php
 
-//require '.env.php';
+require_once '.env.php';
 
 $connection = null;
 
@@ -11,4 +11,8 @@ function connect()
     $connection = mysqli_connect(HOST, USERNAME, PASSWORD, DATABASE);
 
 }
+
+connect();
+echo "Connection Successfl\n";
+
 
